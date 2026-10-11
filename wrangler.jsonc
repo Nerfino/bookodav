@@ -2,7 +2,7 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "bookodav-worker",
   "account_id": "5679f08d5a10854b1b8de113e9a1c1e1",
-  "main": "src/index.ts",
+  "main": "src/index.js",
   "compatibility_date": "2025-02-14",
   "workers_dev": true,
   "observability": {
